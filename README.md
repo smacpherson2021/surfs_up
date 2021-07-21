@@ -8,7 +8,7 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 - The average tempature is similar between June and Dec being aproximately 75 and 71 degrees respectively. This suggests that tempatures on average are good to support both a surf and an ice cream shop year round.
 
-- The min tempature in Dec, at 56 degrees, is cooler then the min June temperature of 64. This suggests that there might be less sales for ice cream in the month of December
+- The min tempature in Dec, at 56 degrees, is cooler then the min June temperature of 64. This suggests that there might be less sales for ice cream in the month of December 
 
 - December has a higher standard deviation then June. This indicates that the temperature spread between days in December is larger then in the month of June. Sales could be less consistant during this month. 
 
