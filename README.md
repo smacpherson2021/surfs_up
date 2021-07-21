@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up Analysis
 
 ## Overview of the statistical analysis:
 
