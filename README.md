@@ -20,10 +20,9 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
 
-- While average tempatures in June and December are similar an additional quere should be run to make sure these results are not cause by any outliers in the data. The standard deviation suggests there is a greater tempature spread in December so we would want to see how many days were close to the average vs not. To do this a query could be run to determine the number of days each month using a catigorization like:<br\>
-    * "Close to average" being +-5 degrees from average<br\>
-    * "Below average" being more then 5 degrees less then the average<br\>
-    * "Above average" being 5 degrees or more then then average<br\>
-This would give us a better sense of how many days would be good for sales in each month.<br\>
+- While average tempatures in June and December are similar an additional quere should be run to make sure these results are not cause by any outliers in the data. The standard deviation suggests there is a greater tempature spread in December so we would want to see how many days were close to the average vs not. This query would give us a better sense of how many days would be good for sales in each month using a catigorization like:
+    * "Close to average" being +-5 degrees from average
+    * "Below average" being more then 5 degrees less then the average
+    * "Above average" being 5 degrees or more then then average
 
 - 
