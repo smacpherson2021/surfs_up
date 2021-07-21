@@ -16,6 +16,8 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 <img src=(https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png) alt="June_Temps.png" width="50%"/>
 
+<img src="https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png" width="200" height="200" />
+
 ![Dec_Temps.png](https://github.com/smacpherson2021/surfs_up/blob/main/Resources/Dec_Temps.png)
 
 ## Summary:
