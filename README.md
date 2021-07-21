@@ -18,11 +18,11 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+The analysis suggests that temperature trends in Oahu are favorable for opening a surf and ice cream shop. Temperatures are not too warm to discourage tourists, but warm enough to facilitate sales for a surf and ice cream shop. 
 
-- While average tempatures in June and December are similar an additional quere should be run to make sure these results are not cause by any outliers in the data. The standard deviation suggests there is a greater tempature spread in December so we would want to see how many days were close to the average vs not. This query would give us a better sense of how many days would be good for sales in each month using a catigorization like:
-    * "Close to average" being +-5 degrees from average
-    * "Below average" being more then 5 degrees less then the average
-    * "Above average" being 5 degrees or more then then average
+- Additional queries should be run to determine the min, max, and average number of days in June and December that have precipitation. This would help determine how many days out of the month would be good for sales as rainy days would discourage business. 
 
-- 
+- While average tempatures in June and December are similar an additional query should be run to make sure these results are not caused by any outliers in the data. The standard deviation suggests there is a greater tempature spread in December so we would want to see how many days were close to the average vs not. This query would give us a better sense of how many days would be good for sales based on temperature in each month using a categorization like:
+    * "Above average" being 5 degrees or more then then average temp
+    * "Close to average" being +-5 degrees from the average temp
+    * "Below average" being more then 5 degrees less then the average temp
