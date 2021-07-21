@@ -14,8 +14,7 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 Summer | Winter
 :---:|:---:
-<img src="https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png" width="150" height="200" /> |\
-<img src="https://github.com/smacpherson2021/surfs_up/blob/main/Resources/Dec_Temps.png" width="150" height="200" />
+<img src="https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png" width="150" height="200" /> |<img src="https://github.com/smacpherson2021/surfs_up/blob/main/Resources/Dec_Temps.png" width="150" height="200" />
 
 
 ## Summary:
