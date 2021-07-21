@@ -7,6 +7,7 @@ A company would like to open a surf shop in Oahu. More information about tempera
 ## Results:
 
 ![June_Temps.png](https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png)
+
 ![Dec_Temps.png](http://localhost:8888/view/OneDrive/Documents/GitHub/surfs_up/Resources/Dec_Temps.png)
 
 
