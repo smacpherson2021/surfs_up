@@ -12,7 +12,9 @@ A company would like to open a surf shop in Oahu. More information about tempera
 
 - December has a higher standard deviation then June. This indicates that the temperature spread between days in December is larger then in the month of June. Sales could be less consistant during this month. 
 
-![June_Temps.png](https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png)<img src="June_Temps.png" alt="drawing" width="50%"/>
+![June_Temps.png](https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png)
+
+<img src=(https://github.com/smacpherson2021/surfs_up/blob/main/Resources/June_Temps.png) alt="June_Temps.png" width="50%"/>
 
 ![Dec_Temps.png](https://github.com/smacpherson2021/surfs_up/blob/main/Resources/Dec_Temps.png)
 
